@@ -3,7 +3,6 @@ theme:
   name: material
   custom_dir: custom_theme
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -35,10 +34,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - CLI Tools: tags/#cli
-  - GUI Tools: tags/#gui
-  - VS Code Extensions: tags/#vscode
-  - All Tags: tags.md
   - Tools:
     - Aider: aider.md
     - Cline: cline.md
