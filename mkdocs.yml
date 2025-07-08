@@ -29,16 +29,8 @@ plugins:
 
 nav:
   - Home: index.md
-  - Tags: tags.md
-  - Aider: aider.md
-  - Cline: cline.md
-  - Codex CLI: codex-cli.md
-  - Continue: continue.md
-  - Gemini CLI: gemini-cli.md
-  - GitHub Copilot Chat: github-copilot-chat.md
-  - LLM: llm.md
-  - OpenCode: open-code.md
-  - OpenHands: open-hands.md
-  - Refact: refact.md
-  - RooCode: roocode.md
-  - Ruler: ruler.md
+  - By Tag:
+    - All Tags: tags.md
+    - CLI Tools: tags.md#cli
+    - GUI Tools: tags.md#gui
+    - VS Code Extensions: tags.md#vscode
