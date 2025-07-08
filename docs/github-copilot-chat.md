@@ -6,12 +6,13 @@ tags:
 
 # GitHub Copilot Chat
 
-- **Website:** [https://github.com/features/copilot](https://github.com/features/copilot)
-- **GitHub:** [https://github.com/microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
+| Website | GitHub | License | Tags |
+| --- | --- | --- | --- |
+| [github.com/features/copilot](https://github.com/features/copilot) | [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) | Proprietary | `gui`, `vscode` |
 
-GitHub Copilot Chat is an AI-powered chat interface that assists with various coding-related tasks. You can interact with it in your IDE, on the GitHub website, and on GitHub Mobile.
+**GitHub Copilot Chat is an AI-powered chat interface that assists with various coding-related tasks. You can interact with it in your IDE, on the GitHub website, and on GitHub Mobile.**
 
-GitHub Copilot Chat is a powerful and versatile AI assistant that is deeply integrated into the GitHub ecosystem. It's designed to be a collaborative tool that can help you with a wide range of coding-related tasks, from answering questions and generating code to debugging and fixing errors. The tool is available in a variety of environments, including your IDE, the GitHub website, and the GitHub Mobile app, making it a convenient and accessible tool for any developer.
+GitHub Copilot Chat is a powerful and versatile AI assistant that is deeply integrated into the GitHub ecosystem. It'sdesigned to be a collaborative tool that can help you with a wide range of coding-related tasks, from answering questions and generating code to debugging and fixing errors. The tool is available in a variety of environments, including your IDE, the GitHub website, and the GitHub Mobile app, making it a convenient and accessible tool for any developer.
 
 ### Key Features
 

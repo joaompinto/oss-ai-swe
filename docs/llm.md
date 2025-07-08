@@ -5,10 +5,11 @@ tags:
 
 # LLM
 
-- **Website:** [https://llm.datasette.io/](https://llm.datasette.io/)
-- **GitHub:** [https://github.com/simonw/llm](https://github.com/simonw/llm)
+| Website | GitHub | License | Tags |
+| --- | --- | --- | --- |
+| [llm.datasette.io](https://llm.datasette.io/) | [simonw/llm](https://github.com/simonw/llm) | Apache 2.0 | `cli` |
 
-LLM is a command-line tool and Python library for interacting with large language models.
+**LLM is a command-line tool and Python library for interacting with large language models.**
 
 LLM is a powerful and versatile tool for interacting with large language models from the command line. Created by Simon Willison, co-creator of Django, it provides a unified interface for working with a wide range of models, including those from OpenAI, Anthropic, Google, and Meta. It's designed with the Unix philosophy of composable tools in mind, allowing it to be piped with other command-line utilities.
 

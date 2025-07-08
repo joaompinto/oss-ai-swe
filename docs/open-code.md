@@ -5,9 +5,11 @@ tags:
 
 # OpenCode
 
-- **GitHub:** [https://github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)
+| Website | GitHub | License | Tags |
+| --- | --- | --- | --- |
+| - | [opencode-ai/opencode](https://github.com/opencode-ai/opencode) | MIT | `cli` |
 
-OpenCode is a terminal-based AI coding assistant that helps you with a variety of tasks, such as answering questions about your code, generating new code, and debugging and fixing errors.
+**OpenCode is a terminal-based AI coding assistant that helps you with a variety of tasks, such as answering questions about your code, generating new code, and debugging and fixing errors.**
 
 OpenCode is a powerful and flexible AI coding assistant that runs in your terminal. It's designed to be a versatile tool that can help you with a wide range of programming tasks, from answering simple questions to generating complex code. The tool is built with a modular architecture, which allows it to be easily extended and customized to fit your specific needs.
 

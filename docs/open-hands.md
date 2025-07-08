@@ -5,10 +5,11 @@ tags:
 
 # OpenHands
 
-- **Website:** [https://www.all-hands.dev/](https://www.all-hands.dev/)
-- **GitHub:** [https://github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
+| Website | GitHub | License | Tags |
+| --- | --- | --- | --- |
+| [all-hands.dev](https://www.all-hands.dev/) | [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) | MIT | `cli` |
 
-OpenHands is an open-source platform for creating and deploying AI agents that can perform software development tasks like a human developer.
+**OpenHands is an open-source platform for creating and deploying AI agents that can perform software development tasks like a human developer.**
 
 OpenHands is a powerful and flexible platform for building and deploying AI agents that can perform a wide range of software development tasks. It's designed to be a collaborative tool, allowing you to work with AI agents to write and modify code, run commands, browse the web, and interact with APIs. The goal of OpenHands is to improve development efficiency by automating repetitive coding tasks, assisting with code generation, debugging, and testing.
 
