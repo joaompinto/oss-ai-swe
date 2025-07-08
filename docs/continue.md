@@ -9,11 +9,7 @@ tags:
 - **Website:** [https://www.continue.dev/](https://www.continue.dev/)
 - **GitHub:** [https://github.com/continuedev/continue](https://github.com/continuedev/continue)
 
-## Description
-
 Continue is an open-source AI code assistant that can be used as a plugin in IDEs like VS Code and JetBrains. It offers features like code completion, chat, and refactoring.
-
-## Explanation
 
 Continue is a powerful and flexible AI code assistant that is designed to be a seamless extension of your IDE. It's a versatile tool that can help you with a wide range of programming tasks, from generating code and automating tasks to refactoring and understanding your codebase. The tool is built with a focus on being open source and customizable, allowing you to tailor it to your specific needs.
 

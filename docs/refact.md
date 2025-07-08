@@ -9,11 +9,7 @@ tags:
 - **Website:** [https://refact.ai/](https://refact.ai/)
 - **GitHub:** [https://github.com/refact-ai/refact](https://github.com/refact-ai/refact)
 
-## Description
-
 Refact.ai is an open-source AI coding assistant that you can use as a plugin in IDEs like VS Code and JetBrains. It's designed to help developers with a variety of tasks, making coding faster and improving code quality.
-
-## Explanation
 
 Refact.ai is a powerful and versatile AI coding assistant that is designed to be a seamless extension of your IDE. It's a comprehensive tool that can help you with a wide range of programming tasks, from generating code and automating tasks to refactoring and analyzing your codebase. The tool is built with a focus on being open source and customizable, allowing you to tailor it to your specific needs.
 

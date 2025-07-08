@@ -7,11 +7,7 @@ tags:
 
 - **GitHub:** [https://github.com/RooCode/RooCode](https://github.com/RooCode/RooCode)
 
-## Description
-
 RooCode is an open-source AI coding assistant that functions as a VS Code extension. It provides agentic AI capabilities, allowing it to understand your entire codebase, and read and write files across your project.
-
-## Explanation
 
 RooCode is a powerful and flexible AI coding assistant that is designed to be a seamless extension of your Visual Studio Code environment. It's a versatile tool that can help you with a wide range of programming tasks, from generating code and automating tasks to understanding your entire codebase. The tool is built with a focus on being model-agnostic, allowing you to use it with a variety of AI models.
 

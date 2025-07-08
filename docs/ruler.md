@@ -8,11 +8,7 @@ tags:
 - **Website:** [https://github.com/intellectronica/ruler](https://github.com/intellectronica/ruler)
 - **GitHub:** [https://github.com/intellectronica/ruler](https://github.com/intellectronica/ruler)
 
-## Description
-
 Ruler is a command-line tool designed to manage and synchronize instructions for various AI coding assistants.
-
-## Explanation
 
 Ruler is a command-line tool that helps you to manage and synchronize instructions for various AI coding assistants. As teams grow, managing the configurations for different AI agents like GitHub Copilot, Claude, and others can lead to inconsistencies. Ruler addresses this by providing a single source of truth for all AI agent instructions, distributing them to the correct configuration files.
 
