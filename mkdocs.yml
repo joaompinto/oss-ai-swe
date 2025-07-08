@@ -11,6 +11,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.expand
   language: en
   palette:
     - scheme: default
@@ -33,6 +34,11 @@ plugins:
 
 nav:
   - Home: index.md
+  - Tags:
+    - All Tags: tags.md
+    - CLI Tools: tags/#cli
+    - GUI Tools: tags/#gui
+    - VS Code Extensions: tags/#vscode
   - Tools:
     - Aider: aider.md
     - Cline: cline.md
