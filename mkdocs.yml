@@ -1,6 +1,7 @@
 site_name: Open-Source AI Software Craft
 theme:
   name: material
+  custom_dir: custom_theme
   features:
     - navigation.tabs
     - navigation.sections
@@ -14,15 +15,17 @@ theme:
   language: en
   palette:
     - scheme: default
-      primary: red darken-4
+      primary: 'custom'
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: red darken-4
+      primary: 'custom'
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
