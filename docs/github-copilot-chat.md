@@ -8,7 +8,7 @@ tags:
 
 | Website | GitHub | License | Tags |
 | --- | --- | --- | --- |
-| [github.com/features/copilot](https://github.com/features/copilot) | [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) | MIT (extension), Proprietary (service) | `gui`, `vscode` |
+| [github.com/features/copilot](https://github.com/features/copilot) | [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) | MIT | `gui`, `vscode` |
 
 **GitHub Copilot Chat is an AI-powered chat interface for Visual Studio Code that assists with various coding-related tasks.**
 
