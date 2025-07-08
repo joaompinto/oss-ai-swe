@@ -29,8 +29,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - By Tag:
-    - All Tags: tags.md
-    - CLI Tools: tags.md#cli
-    - GUI Tools: tags.md#gui
-    - VS Code Extensions: tags.md#vscode
+  - CLI Tools: tags.md#cli
+  - GUI Tools: tags.md#gui
+  - VS Code Extensions: tags.md#vscode
+  - All Tags: tags.md
