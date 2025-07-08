@@ -1,29 +1,30 @@
-name: deploy
-on:
-  push:
-    branches:
-      - main
+name: docs
+on: [push]
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
-        with:
-          python-version: 3.x
+        with: { python-version: '3.x' }
+
       - run: pip install mkdocs mkdocs-material
-      - run: |
-          git config user.name github-actions[bot]
-          git config user.email github-actions[bot]@users.noreply.github.com
-      - env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: mkdocs gh-deploy --clean --force
+      - run: mkdocs build --strict --site-dir site
+
+      - run: echo oss-ai-swe.org > site/CNAME
+
+      - uses: actions/upload-pages-artifact@v2
+        with: { path: ./site }
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: github-pages
+    steps:
+      - uses: actions/deploy-pages@v2
