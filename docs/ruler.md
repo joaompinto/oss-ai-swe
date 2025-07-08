@@ -7,7 +7,7 @@ tags:
 
 | Website | GitHub | License | Tags |
 | --- | --- | --- | --- |
-| [intellectronica/ruler](https://github.com/intellectronica/ruler) | [intellectronica/ruler](https://github.com/intellectronica/ruler) | MIT | `cli` |
+| [ai.intellectronica.net/ruler](https://ai.intellectronica.net/ruler) | [intellectronica/ruler](https://github.com/intellectronica/ruler) | MIT | `cli` |
 
 **Ruler is a command-line tool designed to manage and synchronize instructions for various AI coding assistants.**
 

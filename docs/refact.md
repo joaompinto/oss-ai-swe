@@ -8,7 +8,7 @@ tags:
 
 | Website | GitHub | License | Tags |
 | --- | --- | --- | --- |
-| [refact.ai](https://refact.ai/) | [refact-ai/refact](https://github.com/refact-ai/refact) | BSD-3-Clause | `vscode`, `gui` |
+| [refact.ai](https://refact.ai/) | [smallcloudai/refact](https://github.com/smallcloudai/refact) | BSD-3-Clause | `vscode`, `gui` |
 
 **Refact.ai is an open-source AI coding assistant that you can use as a plugin in IDEs like VS Code and JetBrains. It's designed to help developers with a variety of tasks, making coding faster and improving code quality.**
 
