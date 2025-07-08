@@ -1,4 +1,5 @@
 site_name: Open-Source AI Software Craft
+site_url: https://oss-ai-swe.org/
 theme:
   name: material
   features:
@@ -35,7 +36,6 @@ plugins:
 nav:
   - Home: index.md
   - Tags:
-    - All Tags: tags.md
     - CLI Tools: tags/#cli
     - GUI Tools: tags/#gui
     - VS Code Extensions: tags/#vscode
