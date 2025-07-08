@@ -7,6 +7,7 @@ tags:
 # GitHub Copilot Chat
 
 - **Website:** [https://github.com/features/copilot](https://github.com/features/copilot)
+- **GitHub:** [https://github.com/microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)
 
 ## Description
 
