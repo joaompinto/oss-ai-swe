@@ -1,8 +1,12 @@
+---
+tags:
+  - cli
+---
+
 # Aider
 
 - **Website:** [https://aider.chat/](https://aider.chat/)
 - **GitHub:** [https://github.com/paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-- **Tags:** `cli`
 
 ## Description
 

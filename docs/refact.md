@@ -1,8 +1,13 @@
+---
+tags:
+  - vscode
+  - gui
+---
+
 # Refact
 
 - **Website:** [https://refact.ai/](https://refact.ai/)
 - **GitHub:** [https://github.com/refact-ai/refact](https://github.com/refact-ai/refact)
-- **Tags:** `vscode`, `gui`
 
 ## Description
 

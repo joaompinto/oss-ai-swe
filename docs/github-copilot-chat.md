@@ -1,7 +1,12 @@
+---
+tags:
+  - gui
+  - vscode
+---
+
 # GitHub Copilot Chat
 
 - **Website:** [https://github.com/features/copilot](https://github.com/features/copilot)
-- **Tags:** `gui`, `vscode`
 
 ## Description
 

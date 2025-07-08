@@ -1,7 +1,11 @@
+---
+tags:
+  - vscode
+---
+
 # RooCode
 
 - **GitHub:** [https://github.com/RooCode/RooCode](https://github.com/RooCode/RooCode)
-- **Tags:** `vscode`
 
 ## Description
 

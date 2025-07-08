@@ -1,8 +1,13 @@
+---
+tags:
+  - vscode
+  - gui
+---
+
 # Continue
 
 - **Website:** [https://www.continue.dev/](https://www.continue.dev/)
 - **GitHub:** [https://github.com/continuedev/continue](https://github.com/continuedev/continue)
-- **Tags:** `vscode`, `gui`
 
 ## Description
 

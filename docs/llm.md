@@ -1,8 +1,12 @@
+---
+tags:
+  - cli
+---
+
 # LLM
 
 - **Website:** [https://llm.datasette.io/](https://llm.datasette.io/)
 - **GitHub:** [https://github.com/simonw/llm](https://github.com/simonw/llm)
-- **Tags:** `cli`
 
 ## Description
 

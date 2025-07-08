@@ -1,8 +1,12 @@
+---
+tags:
+  - vscode
+---
+
 # Cline
 
 - **Website:** [https://www.cline.bot/](https://www.cline.bot/)
 - **GitHub:** [https://github.com/i-continue/cline](https://github.com/i-continue/cline)
-- **Tags:** `vscode`
 
 ## Description
 

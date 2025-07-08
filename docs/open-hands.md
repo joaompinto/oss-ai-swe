@@ -1,8 +1,12 @@
+---
+tags:
+  - cli
+---
+
 # OpenHands
 
 - **Website:** [https://www.all-hands.dev/](https://www.all-hands.dev/)
 - **GitHub:** [https://github.com/All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)
-- **Tags:** `cli`
 
 ## Description
 

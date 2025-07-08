@@ -1,8 +1,12 @@
+---
+tags:
+  - cli
+---
+
 # Ruler
 
 - **Website:** [https://github.com/intellectronica/ruler](https://github.com/intellectronica/ruler)
 - **GitHub:** [https://github.com/intellectronica/ruler](https://github.com/intellectronica/ruler)
-- **Tags:** `cli`
 
 ## Description
 

@@ -1,8 +1,12 @@
+---
+tags:
+  - cli
+---
+
 # Codex CLI
 
 - **Website:** [https://openai.com/blog/openai-codex](https://openai.com/blog/openai-codex)
 - **GitHub:** [https://github.com/openai/codex-cli](https://github.com/openai/codex-cli)
-- **Tags:** `cli`
 
 ## Description
 

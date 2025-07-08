@@ -1,7 +1,11 @@
+---
+tags:
+  - cli
+---
+
 # Gemini CLI
 
 - **GitHub:** [https://github.com/google/gemini-cli](https://github.com/google/gemini-cli)
-- **Tags:** `cli`
 
 ## Description
 

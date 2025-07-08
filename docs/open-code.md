@@ -1,7 +1,11 @@
+---
+tags:
+  - cli
+---
+
 # OpenCode
 
 - **GitHub:** [https://github.com/opencode-ai/opencode](https://github.com/opencode-ai/opencode)
-- **Tags:** `cli`
 
 ## Description
 
