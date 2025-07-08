@@ -10,6 +10,7 @@ This is a community-managed informational website with a comprehensive guide to 
 * [OpenHands](./open-hands.md)
 * [OpenCode](./open-code.md)
 * [GitHub Copilot Chat](./github-copilot-chat.md)
+* [Goose](./goose.md)
 * [Cline](./cline.md)
 * [RooCode](./roocode.md)
 * [Continue](./continue.md)
