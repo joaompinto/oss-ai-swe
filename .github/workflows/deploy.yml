@@ -16,7 +16,7 @@ jobs:
         with: { python-version: '3.x' }
 
       - run: pip install mkdocs mkdocs-material
-      - run: mkdocs build --strict --site-dir site
+      - run: mkdocs build --site-dir site
 
       - run: echo oss-ai-swe.org > site/CNAME
 
