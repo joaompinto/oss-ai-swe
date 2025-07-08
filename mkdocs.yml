@@ -12,7 +12,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - navigation.indexes
+    - navigation.expand
   language: en
   palette:
     - scheme: default
@@ -35,17 +35,16 @@ plugins:
 
 nav:
   - Home: index.md
-  - Tools:
-    - Aider: aider.md
-    - Cline: cline.md
-    - Codex CLI: codex-cli.md
-    - Continue: continue.md
-    - Gemini CLI: gemini-cli.md
-    - GitHub Copilot Chat: github-copilot-chat.md
-    - LLM: llm.md
-    - OpenCode: open-code.md
-    - OpenHands: open-hands.md
-    - Refact: refact.md
-    - RooCode: roocode.md
-    - Ruler: ruler.md
+  - Aider: aider.md
+  - Cline: cline.md
+  - Codex CLI: codex-cli.md
+  - Continue: continue.md
+  - Gemini CLI: gemini-cli.md
+  - GitHub Copilot Chat: github-copilot-chat.md
+  - LLM: llm.md
+  - OpenCode: open-code.md
+  - OpenHands: open-hands.md
+  - Refact: refact.md
+  - RooCode: roocode.md
+  - Ruler: ruler.md
   - All Tags: tags.md
