@@ -14,12 +14,12 @@ theme:
   language: en
   palette:
     - scheme: default
-      primary: red
+      primary: red darken-4
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
     - scheme: slate
-      primary: red
+      primary: red darken-4
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
