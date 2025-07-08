@@ -8,11 +8,11 @@ tags:
 
 | Website | GitHub | License | Tags |
 | --- | --- | --- | --- |
-| [github.com/features/copilot](https://github.com/features/copilot) | [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) | Proprietary | `gui`, `vscode` |
+| [github.com/features/copilot](https://github.com/features/copilot) | [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) | MIT (extension), Proprietary (service) | `gui`, `vscode` |
 
-**GitHub Copilot Chat is an AI-powered chat interface that assists with various coding-related tasks. You can interact with it in your IDE, on the GitHub website, and on GitHub Mobile.**
+**GitHub Copilot Chat is an AI-powered chat interface for Visual Studio Code that assists with various coding-related tasks.**
 
-GitHub Copilot Chat is a powerful and versatile AI assistant that is deeply integrated into the GitHub ecosystem. It'sdesigned to be a collaborative tool that can help you with a wide range of coding-related tasks, from answering questions and generating code to debugging and fixing errors. The tool is available in a variety of environments, including your IDE, the GitHub website, and the GitHub Mobile app, making it a convenient and accessible tool for any developer.
+The GitHub Copilot Chat extension for Visual Studio Code brings the power of GitHub Copilot directly into the editor, providing a chat-based interface for interacting with the AI assistant. While the extension itself is open-source under the MIT license, the underlying GitHub Copilot service that powers it is a proprietary, subscription-based product. This page focuses on the open-source VS Code extension.
 
 ### Key Features
 
