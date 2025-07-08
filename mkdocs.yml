@@ -1,5 +1,7 @@
 site_name: Open-Source AI Software Craft
 site_url: https://oss-ai-swe.org/
+repo_url: https://github.com/intellectronica/oss-ai-swe
+repo_name: intellectronica/oss-ai-swe
 theme:
   name: material
   features:
@@ -24,6 +26,8 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
 
 extra_css:
   - stylesheets/extra.css
