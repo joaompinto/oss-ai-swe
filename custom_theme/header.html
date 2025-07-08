@@ -1,13 +1,11 @@
 {% extends "base.html" %}
 
-{% block header %}
-  {{ super() }}
-  <nav class="md-header__nav md-grid">
-    <ul class="md-header__list">
-      <li class="md-header__item"><a href="{{ 'tags/#cli' | url }}" class="md-header__link">CLI Tools</a></li>
-      <li class="md-header__item"><a href="{{ 'tags/#gui' | url }}" class="md-header__link">GUI Tools</a></li>
-      <li class="md-header__item"><a href="{{ 'tags/#vscode' | url }}" class="md-header__link">VS Code Extensions</a></li>
-      <li class="md-header__item"><a href="{{ 'tags' | url }}" class="md-header__link">All Tags</a></li>
-    </ul>
+{% block tabs %}
+  <nav class="md-tabs">
+    <a href="{{ '' | url }}" class="md-tabs__link">Home</a>
+    <a href="{{ 'tags/#cli' | url }}" class="md-tabs__link">CLI Tools</a>
+    <a href="{{ 'tags/#gui' | url }}" class="md-tabs__link">GUI Tools</a>
+    <a href="{{ 'tags/#vscode' | url }}" class="md-tabs__link">VS Code Extensions</a>
+    <a href="{{ 'tags' | url }}" class="md-tabs__link">All Tags</a>
   </nav>
 {% endblock %}
