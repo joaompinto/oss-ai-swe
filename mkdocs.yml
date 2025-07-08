@@ -24,9 +24,11 @@ theme:
 
 plugins:
   - search
+  - tags
 
 nav:
   - Home: index.md
+  - Tags: tags.md
   - Aider: aider.md
   - Cline: cline.md
   - Codex CLI: codex-cli.md
