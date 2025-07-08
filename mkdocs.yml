@@ -12,7 +12,6 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-    - navigation.expand
   language: en
   palette:
     - scheme: default
@@ -35,16 +34,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Aider: aider.md
-  - Cline: cline.md
-  - Codex CLI: codex-cli.md
-  - Continue: continue.md
-  - Gemini CLI: gemini-cli.md
-  - GitHub Copilot Chat: github-copilot-chat.md
-  - LLM: llm.md
-  - OpenCode: open-code.md
-  - OpenHands: open-hands.md
-  - Refact: refact.md
-  - RooCode: roocode.md
-  - Ruler: ruler.md
+  - CLI Tools: tags/#cli
+  - GUI Tools: tags/#gui
+  - VS Code Extensions: tags/#vscode
   - All Tags: tags.md
