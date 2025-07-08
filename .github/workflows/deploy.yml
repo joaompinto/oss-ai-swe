@@ -26,4 +26,4 @@ jobs:
           git config user.email github-actions[bot]@users.noreply.github.com
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --clean --force
