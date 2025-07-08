@@ -4,4 +4,4 @@ install:
 	uv pip install mkdocs
 
 serve:
-	mkdocs serve
+	uv run mkdocs serve
