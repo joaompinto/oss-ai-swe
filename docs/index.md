@@ -2,7 +2,7 @@
 
 This is a community-managed informational website with a comprehensive guide to open-source tools available in the AI-assisted software development / software engineering space.
 
-The guide as the initiative of [Eleanor Berger](https://intellectronica.net/) ([AI Expertise](https://ai.intellectronica.net/)) and is sponsored and maintained by her, with active participation from community contributors.
+---
 
 * [Codex CLI](./codex-cli.md)
 * [Gemini CLI](./gemini-cli.md)
@@ -16,3 +16,7 @@ The guide as the initiative of [Eleanor Berger](https://intellectronica.net/) ([
 * [Refact](./refact.md)
 * [Ruler](./ruler.md)
 * [LLM](./llm.md)
+
+---
+
+> The guide as the initiative of [Eleanor Berger](https://intellectronica.net/) ([AI Expertise](https://ai.intellectronica.net/)) and is sponsored and maintained by her, with active participation from community contributors.
