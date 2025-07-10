@@ -4,20 +4,16 @@ This is a community-managed informational website with a comprehensive guide to 
 
 ---
 
-* [Codex CLI](./codex-cli.md)
-* [Gemini CLI](./gemini-cli.md)
-* [Aider](./aider.md)
-* [OpenHands](./open-hands.md)
-* [OpenCode](./open-code.md)
-* [GitHub Copilot Chat](./github-copilot-chat.md)
-* [Goose](./goose.md)
-* [Cline](./cline.md)
-* [RooCode](./roocode.md)
-* [Continue](./continue.md)
-* [Refact](./refact.md)
-* [Ruler](./ruler.md)
-* [LLM](./llm.md)
-
----
-
-> The guide as the initiative of [Eleanor Berger](https://intellectronica.net/) ([AI Expertise](https://ai.intellectronica.net/)) and is sponsored and maintained by her, with active participation from community contributors.
+- [Aider](./aider.md)
+- [Cline](./cline.md)
+- [Codex CLI](./codex-cli.md)
+- [Continue](./continue.md)
+- [Gemini CLI](./gemini-cli.md)
+- [GitHub Copilot Chat](./github-copilot-chat.md)
+- [Goose](./goose.md)
+- [LLM](./llm.md)
+- [OpenCode](./open-code.md)
+- [OpenHands](./open-hands.md)
+- [Refact](./refact.md)
+- [RooCode](./roocode.md)
+- [Ruler](./ruler.md)

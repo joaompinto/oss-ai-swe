@@ -29,6 +29,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  custom_dir: docs/overrides
+
 extra_css:
   - stylesheets/extra.css
 
@@ -43,6 +45,7 @@ nav:
     - CLI Tools: tags/#cli
     - GUI Tools: tags/#gui
     - VS Code Extensions: tags/#vscode
+    - Utilities: tags/#util
   - Tools:
     - Aider: aider.md
     - Cline: cline.md

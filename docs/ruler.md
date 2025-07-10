@@ -1,6 +1,7 @@
 ---
 tags:
   - cli
+  - util
 ---
 
 # Ruler
