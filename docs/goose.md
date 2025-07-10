@@ -6,9 +6,9 @@ tags:
 
 # Goose
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [block.github.io/goose](https://block.github.io/goose/) | [block/goose](https://github.com/block/goose) | Apache 2.0 | `cli`, `gui` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [block.github.io/goose](https://block.github.io/goose/) | [block/goose](https://github.com/block/goose) | Apache 2.0 |
 
 **Goose is a local, extensible, open source AI agent that automates engineering tasks from start to finish.**
 

@@ -5,9 +5,9 @@ tags:
 
 # RooCode
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [roocode.com](https://roocode.com/) | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Apache 2.0 | `vscode` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [roocode.com](https://roocode.com/) | [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | Apache 2.0 |
 
 **RooCode is an open-source AI coding assistant that functions as a VS Code extension. It provides agentic AI capabilities, allowing it to understand your entire codebase, and read and write files across your project.**
 

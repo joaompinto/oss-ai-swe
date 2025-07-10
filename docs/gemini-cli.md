@@ -5,9 +5,9 @@ tags:
 
 # Gemini CLI
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [cloud.google.com/gemini/docs/codeassist/gemini-cli](https://cloud.google.com/gemini/docs/codeassist/gemini-cli) | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | Apache 2.0 | `cli` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [cloud.google.com/gemini/docs/codeassist/gemini-cli](https://cloud.google.com/gemini/docs/codeassist/gemini-cli) | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | Apache 2.0 |
 
 **Gemini CLI is a command-line interface from Google that allows you to interact with the Gemini family of models. It's a powerful tool for developers who want to leverage the capabilities of Gemini for a wide range of software engineering tasks.**
 

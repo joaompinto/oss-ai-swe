@@ -5,9 +5,9 @@ tags:
 
 # Cline
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [cline.bot](https://www.cline.bot/) | [cline/cline](https://github.com/cline/cline) | Apache 2.0 | `vscode` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [cline.bot](https://www.cline.bot/) | [cline/cline](https://github.com/cline/cline) | Apache 2.0 |
 
 **Cline is an AI-powered coding assistant that works as a Visual Studio Code extension. It helps developers write code more efficiently by providing intelligent code suggestions, automating tasks, and integrating with various AI models.**
 

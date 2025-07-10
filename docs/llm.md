@@ -6,9 +6,9 @@ tags:
 
 # LLM
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [llm.datasette.io](https://llm.datasette.io/) | [simonw/llm](https://github.com/simonw/llm) | Apache 2.0 | `cli` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [llm.datasette.io](https://llm.datasette.io/) | [simonw/llm](https://github.com/simonw/llm) | Apache 2.0 |
 
 **LLM is a command-line tool and Python library for interacting with large language models.**
 

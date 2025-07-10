@@ -5,9 +5,9 @@ tags:
 
 # Aider
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [aider.chat](https://aider.chat/) | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Apache 2.0 | `cli` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [aider.chat](https://aider.chat/) | [paul-gauthier/aider](https://github.com/paul-gauthier/aider) | Apache 2.0 |
 
 **Aider is an AI-powered pair programmer that runs in your terminal. It allows you to code with a large language model to edit code in your local git repository.**
 

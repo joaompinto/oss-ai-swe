@@ -5,9 +5,9 @@ tags:
 
 # Codex CLI
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [openai.com/blog/openai-codex](https://openai.com/blog/openai-codex) | [openai/codex](https://github.com/openai/codex) | Apache 2.0 | `cli` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [openai.com/blog/openai-codex](https://openai.com/blog/openai-codex) | [openai/codex](https://github.com/openai/codex) | Apache 2.0 |
 
 **Codex CLI is a command-line interface that brings the power of OpenAI's Codex to your terminal. It allows you to interact with your codebase using natural language, making it a powerful tool for a variety of software development tasks.**
 

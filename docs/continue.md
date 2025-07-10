@@ -6,9 +6,9 @@ tags:
 
 # Continue
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [continue.dev](https://www.continue.dev/) | [continuedev/continue](https://github.com/continuedev/continue) | Apache 2.0 | `vscode`, `gui` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [continue.dev](https://www.continue.dev/) | [continuedev/continue](https://github.com/continuedev/continue) | Apache 2.0 |
 
 **Continue is an open-source AI code assistant that can be used as a plugin in IDEs like VS Code and JetBrains. It offers features like code completion, chat, and refactoring.**
 
