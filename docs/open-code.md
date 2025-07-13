@@ -60,3 +60,11 @@ npm install -g opencode-ai
 *   **Website:** https://opencode.ai/
 *   **GitHub:** https://github.com/opencode-ai/opencode
 *   **Docs:** https://docs.opencode.ai/
+
+## Tutorials
+
+* **This CLI Tool Changed Coding Forever! (OpenCode)** (YouTube) — [https://www.youtube.com/watch?v=YLNAp4_AUpo](https://www.youtube.com/watch?v=YLNAp4_AUpo)
+* **OpenCode: NEW Agentic AI Coder** (YouTube) — [https://www.youtube.com/watch?v=Z0HglpK20ec](https://www.youtube.com/watch?v=Z0HglpK20ec)
+* **How I Built an AI-Powered Terminal That Costs Me Nothing** — [https://medium.com/@PowerUpSkills/how-i-built-an-ai-powered-terminal-that-costs-me-nothing-2a64ac1e0312](https://medium.com/@PowerUpSkills/how-i-built-an-ai-powered-terminal-that-costs-me-nothing-2a64ac1e0312)
+* **Building Your Ultimate Terminal-Based AI Coding Assistant** — [https://atalupadhyay.wordpress.com/2025/06/16/open-code-building-your-ultimate-terminal-based-ai-coding-assistant/](https://atalupadhyay.wordpress.com/2025/06/16/open-code-building-your-ultimate-terminal-based-ai-coding-assistant/)
+* **OpenCode: The ULTIMATE AI Coding Agent** (YouTube) — [https://www.youtube.com/watch?v=SIhToEaIsjQ](https://www.youtube.com/watch?v=SIhToEaIsjQ)

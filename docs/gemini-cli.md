@@ -49,3 +49,11 @@ npm install -g @google/gemini-cli
 ## Links
 
 *   **GitHub:** https://github.com/google-gemini/gemini-cli
+
+## Tutorials
+
+* **Gemini CLI – Google Cloud Docs** — [https://cloud.google.com/gemini/docs/codeassist/gemini-cli](https://cloud.google.com/gemini/docs/codeassist/gemini-cli)
+* **Introducing Gemini CLI (Google Blog)** — [https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+* **Gemini CLI Tutorial: How to Install and Use It** — [https://dev.to/auden/google-gemini-cli-tutorial-how-to-install-and-use-it-with-images-4phb](https://dev.to/auden/google-gemini-cli-tutorial-how-to-install-and-use-it-with-images-4phb)
+* **Google Gemini CLI: AI in Your Terminal** (YouTube) — [https://www.youtube.com/watch?v=xqvprnPocHs](https://www.youtube.com/watch?v=xqvprnPocHs)
+* **Gemini CLI: First Look at Google’s FREE AI Agent** (YouTube) — [https://www.youtube.com/watch?v=Pwx7_DLGYAc](https://www.youtube.com/watch?v=Pwx7_DLGYAc)

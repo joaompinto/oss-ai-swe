@@ -53,3 +53,11 @@ A desktop application is available for Mac and Windows. You can download it from
 *   **Website:** https://block.github.io/goose/
 *   **GitHub:** https://github.com/block/goose
 *   **Documentation:** https://block.github.io/goose/docs/intro
+
+## Tutorials
+
+* **Goose in 5 Minutes – Quickstart** — [https://block.github.io/goose/docs/quickstart/](https://block.github.io/goose/docs/quickstart/)
+* **Introducing Goose, the On-Machine AI Agent** — [https://blog.marcnuri.com/goose-on-machine-ai-agent-cli-introduction](https://blog.marcnuri.com/goose-on-machine-ai-agent-cli-introduction)
+* **Coding with Goose, an AI Agent** (YouTube) — [https://www.youtube.com/watch?v=NPuxzX5rdjk](https://www.youtube.com/watch?v=NPuxzX5rdjk)
+* **Codename Goose – Build Your AI Agents** (YouTube) — [https://www.youtube.com/watch?v=7NmEKaX44L4](https://www.youtube.com/watch?v=7NmEKaX44L4)
+* **Integrating Ollama with Goose – Comprehensive Guide** — [https://medium.com/@rijuldahiya/integrating-ollama-with-goose-codename-a-comprehensive-guide-to-local-ai-deployment-across-server-573d98ef5820](https://medium.com/@rijuldahiya/integrating-ollama-with-goose-codename-a-comprehensive-guide-to-local-ai-deployment-across-server-573d98ef5820)

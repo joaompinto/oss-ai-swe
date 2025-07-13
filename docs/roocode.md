@@ -40,3 +40,11 @@ RooCode is a powerful and flexible tool for any developer who wants to leverage 
 *   **Website:** https://roocode.com/
 *   **GitHub:** https://github.com/RooCodeInc/Roo-Code
 *   **Docs:** https://docs.roocode.com/
+
+## Tutorials
+
+* **Roo Code – VS Code Marketplace Page (setup docs)** — [https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
+* **Free AI Coding Assistant: Setup Roo Code with Free LLM Models** — [https://medium.com/four-nine-digital/free-ai-coding-assistant-setup-up-roo-code-with-free-llm-models-04beca21793d](https://medium.com/four-nine-digital/free-ai-coding-assistant-setup-up-roo-code-with-free-llm-models-04beca21793d)
+* **Roo Code is AMAZING – AI VS Code Extension** (YouTube) — [https://www.youtube.com/watch?v=r5T3h0BOiWw](https://www.youtube.com/watch?v=r5T3h0BOiWw)
+* **Your Ultimate AI Coding Agent: Roo Code + VS Code** (YouTube) — [https://www.youtube.com/watch?v=hRxjMTyB-GA](https://www.youtube.com/watch?v=hRxjMTyB-GA)
+* **Installing Roo Code in VS Code – Quick Setup** (YouTube) — [https://www.youtube.com/watch?v=Mcq3r1EPZ-4](https://www.youtube.com/watch?v=Mcq3r1EPZ-4)

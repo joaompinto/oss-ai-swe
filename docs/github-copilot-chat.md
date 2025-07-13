@@ -59,3 +59,11 @@ GitHub Copilot Chat is a powerful and versatile tool for any developer who wants
 *   **Website:** https://github.com/features/copilot
 *   **GitHub:** https://github.com/microsoft/vscode-copilot-chat
 *   **Documentation:** https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat
+
+## Tutorials
+
+* **Asking Copilot Chat Questions in Your IDE** — [https://docs.github.com/en/copilot/how-tos/chat/asking-github-copilot-questions-in-your-ide](https://docs.github.com/en/copilot/how-tos/chat/asking-github-copilot-questions-in-your-ide)
+* **Getting Started with Copilot Chat in VS Code** — [https://code.visualstudio.com/docs/copilot/chat/getting-started-chat](https://code.visualstudio.com/docs/copilot/chat/getting-started-chat)
+* **GitHub Copilot – Getting Started with Chat** (YouTube) — [https://www.youtube.com/watch?v=3surPGP7_4o](https://www.youtube.com/watch?v=3surPGP7_4o)
+* **Get Started with GitHub Copilot & Copilot Chat** (YouTube) — [https://www.youtube.com/watch?v=XJbVDsJPqC8](https://www.youtube.com/watch?v=XJbVDsJPqC8)
+* **Copilot Chat – Overview & Prompts** — [https://docs.github.com/en/copilot/how-tos/chat](https://docs.github.com/en/copilot/how-tos/chat)

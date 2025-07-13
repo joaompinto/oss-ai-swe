@@ -41,3 +41,11 @@ Cline is a powerful and flexible tool for any developer who wants to leverage th
 *   **GitHub:** https://github.com/cline/cline
 *   **Discord:** https://discord.gg/cline
 *   **Blog:** https://cline.bot/blog
+
+## Tutorials
+
+* **Getting started – For New Coders** — [https://docs.cline.bot/getting-started/for-new-coders](https://docs.cline.bot/getting-started/for-new-coders)
+* **How to Set Up Cline: A Beginner’s Step-by-Step Guide** — [https://apidog.com/blog/how-to-use-cline/](https://apidog.com/blog/how-to-use-cline/)
+* **How to Use Cline Coding Agent for Free** (YouTube) — [https://www.youtube.com/watch?v=SjYnmDjMBWc](https://www.youtube.com/watch?v=SjYnmDjMBWc)
+* **Cline + VS Code Changed How I Code Forever** (YouTube) — [https://www.youtube.com/watch?v=KjqQC4AnJ1I](https://www.youtube.com/watch?v=KjqQC4AnJ1I)
+* **An Introduction to My Daily Coding Assistant and How I Use It** — [https://medium.com/@colin.nardo/an-introduction-to-my-daily-coding-assistant-and-how-i-use-it-1669aaa9c34f](https://medium.com/@colin.nardo/an-introduction-to-my-daily-coding-assistant-and-how-i-use-it-1669aaa9c34f)

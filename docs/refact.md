@@ -59,3 +59,10 @@ docker run -p 8008:8008 refact/refact
 *   **Website:** https://refact.ai/
 *   **GitHub:** https://github.com/smallcloudai/refact
 *   **Docs:** https://refact.ai/docs/
+
+## Tutorials
+
+* **Refact for VS Code – Installation Guide** — [https://docs.refact.ai/installation/vs-code/](https://docs.refact.ai/installation/vs-code/)
+* **Improved Coding Experience with Refact Plugin** (YouTube) — [https://www.youtube.com/watch?v=SsjOY4bJ4Yg](https://www.youtube.com/watch?v=SsjOY4bJ4Yg)
+* **How to Use Refact AI for Faster & Smarter Refactoring** — [https://medium.com/@shahneel2409/how-to-use-refact-ai-for-faster-and-smarter-code-refactoring-9ff999c2d733](https://medium.com/@shahneel2409/how-to-use-refact-ai-for-faster-and-smarter-code-refactoring-9ff999c2d733)
+* **NEW Fully FREE AI Software Engineer (Refact.ai)** (YouTube) — [https://www.youtube.com/watch?v=k4eSitgTKSc](https://www.youtube.com/watch?v=k4eSitgTKSc)

@@ -60,3 +60,11 @@ pipx install llm
 *   **Website:** https://llm.datasette.io/
 *   **GitHub:** https://github.com/simonw/llm
 *   **Plugins:** https://llm.datasette.io/en/latest/plugins/directory.html
+
+## Tutorials
+
+* **LLM Usage Guide** — [https://llm.datasette.io/en/stable/usage.html](https://llm.datasette.io/en/stable/usage.html)
+* **CLI Reference** — [https://llm.datasette.io/en/stable/help.html](https://llm.datasette.io/en/stable/help.html)
+* **Language Models on the Command Line** — [https://simonwillison.net/2024/Jun/17/cli-language-models/](https://simonwillison.net/2024/Jun/17/cli-language-models/)
+* **Using LLM on the Command Line** (YouTube) — [https://www.youtube.com/watch?v=aQuuJuCa0VM](https://www.youtube.com/watch?v=aQuuJuCa0VM)
+* **LLM 0.26 – Running Tools with LLM** — [https://simonwillison.net/2025/May/27/llm-tools/](https://simonwillison.net/2025/May/27/llm-tools/)

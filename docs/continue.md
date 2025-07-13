@@ -51,3 +51,11 @@ Continue is a powerful and flexible tool for any developer who wants to leverage
 *   **GitHub:** https://github.com/continuedev/continue
 *   **Docs:** https://docs.continue.dev/
 *   **Discord:** https://discord.gg/continue
+
+## Tutorials
+
+* **Official docs – Introduction** — [https://docs.continue.dev/](https://docs.continue.dev/)
+* **Build a FREE AI Coding Assistant Locally in VS Code** (YouTube) — [https://www.youtube.com/watch?v=szNCJ2p5m_Y](https://www.youtube.com/watch?v=szNCJ2p5m_Y)
+* **Continue: The Leading Open-Source AI Code Assistant** (YouTube) — [https://www.youtube.com/watch?v=V3Yq6w9QaxI](https://www.youtube.com/watch?v=V3Yq6w9QaxI)
+* **Setting up a Remote AI Code Assistant: Ollama + Continue** — [https://medium.com/@texchi2/setting-up-a-remote-ai-code-assistant-ollama-continue-in-vs-code-ce94101c7dc6](https://medium.com/@texchi2/setting-up-a-remote-ai-code-assistant-ollama-continue-in-vs-code-ce94101c7dc6)
+* **Local AI Assistance with Continue & Ollama** — [https://www.pedroalonso.net/blog/local-ai-assitance-with-continue-ollama-vscode/](https://www.pedroalonso.net/blog/local-ai-assitance-with-continue-ollama-vscode/)

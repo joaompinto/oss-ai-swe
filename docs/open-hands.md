@@ -44,3 +44,11 @@ docker run -p 3000:3000 allhandsai/openhands
 *   **Website:** https://www.all-hands.dev/
 *   **GitHub:** https://github.com/All-Hands-AI/OpenHands
 *   **Docs:** https://docs.all-hands.dev/
+
+## Tutorials
+
+* **OpenHands Docs – Getting Started** — [https://docs.all-hands.dev/usage/getting-started](https://docs.all-hands.dev/usage/getting-started)
+* **This AI Agent Built an App While I Watched (OpenHands)** (YouTube) — [https://www.youtube.com/watch?v=DPtOIljNmOg](https://www.youtube.com/watch?v=DPtOIljNmOg)
+* **OpenHands + Daytona = Zero-to-Hero** (YouTube) — [https://www.youtube.com/watch?v=4D3ctTcB2hY](https://www.youtube.com/watch?v=4D3ctTcB2hY)
+* **OpenHands: Open-Source AI Software Developer** — [https://www.kdnuggets.com/openhands-open-source-ai-software-developer](https://www.kdnuggets.com/openhands-open-source-ai-software-developer)
+* **OpenHands AI Agent Quick-Start (Short video)** — [https://www.youtube.com/shorts/wgD3PfwXYi0](https://www.youtube.com/shorts/wgD3PfwXYi0)

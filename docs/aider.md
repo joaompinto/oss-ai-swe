@@ -82,8 +82,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://aider.chat/install.ps1 | iex"
 
 ## Tutorials
 
-*   [Using Architect/Editor mode](https://www.youtube.com/watch?v=OPXslklVBZc) by AICodeKing
-*   [Using aider to incrementally build a non-trivial app](https://www.youtube.com/watch?v=QlUt06XLbJE) by IndyDevDan
-*   [Aider and Replit on mobile with your voice](https://x.com/itsPaulAi/status/1830987090617831810) by Paul Couvert
-*   [Aider is the OG AI Coding King (Mermaid Diagram AI Agent)](https://www.youtube.com/watch?v=ag-KxYS8Vuw) by IndyDevDan
-*   [Installing aider in replit and making a Trello clone](https://x.com/itspaulai/status/1828834199597633724) by Paul Couvert
+*   **Official “Tutorial videos” collection** — [https://aider.chat/docs/usage/tutorials.html](https://aider.chat/docs/usage/tutorials.html)
+*   **Better than GitHub Copilot? Aider AI Pair Programmer** (YouTube) — [https://www.youtube.com/watch?v=nYFrdypdsTk](https://www.youtube.com/watch?v=nYFrdypdsTk)
+*   **Build the Ultimate AI Pair Programmer with Aider + DSL** (YouTube) — [https://www.youtube.com/watch?v=xV2CzBoJ2lc](https://www.youtube.com/watch?v=xV2CzBoJ2lc)
+*   **Aider: Best AI Programming Assistant for the Terminal** (YouTube) — [https://www.youtube.com/watch?v=XzfDV_She-E](https://www.youtube.com/watch?v=XzfDV_She-E)
