@@ -23,3 +23,50 @@ Codex CLI is designed to be a versatile and intuitive tool for developers. It ca
 *   **Code Understanding:** Beyond just generating code, Codex CLI can also help you understand unfamiliar codebases. You can ask it to explain a specific function or file, and it will provide a natural language description of what the code does.
 
 Codex CLI is a powerful tool for any developer looking to leverage the power of AI to improve their workflow. Its ability to understand natural language and interact with your code in a variety of ways makes it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### npm
+
+```bash
+npm i -g @openai/codex
+```
+
+### Homebrew
+
+```bash
+brew install codex
+```
+
+### Manual
+
+Download the appropriate binary from the [latest GitHub Release](https://github.com/openai/codex/releases/latest).
+
+## Quickstart
+
+1.  Install `codex-cli` using one of the methods above.
+2.  Set your OpenAI API key:
+    ```bash
+    export OPENAI_API_KEY="your-api-key-here"
+    ```
+3.  Run interactively:
+    ```bash
+    codex
+    ```
+4.  Or, run with a prompt:
+    ```bash
+    codex "explain this codebase to me"
+    ```
+
+## Links
+
+*   **GitHub:** https://github.com/openai/codex
+*   **Releases:** https://github.com/openai/codex/releases
+
+## Tutorials
+
+*   [OpenAI’s Codex CLI: A Developer’s Guide](https://www.datacamp.com/tutorial/openai-codex-cli-a-developers-guide)
+*   [How to Use OpenAI’s Codex CLI to Write and Edit Code](https://medium.com/@mail.to.sandeep/how-to-use-openais-codex-cli-to-write-and-edit-code-2d3c9a2b3b3c)
+*   [How to Use the New Codex CLI from OpenAI](https://www.apipie.ai/blog/how-to-use-the-new-codex-cli-from-openai)
+*   [How to Use OpenAI’s Codex CLI](https://www.apidog.com/blog/how-to-use-openais-codex-cli/)
+*   [How to Use the Codex CLI](https://machinelearningmastery.com/how-to-use-the-codex-cli/)

@@ -23,3 +23,39 @@ Goose is your on-machine AI agent, capable of automating complex development tas
 *   **Local and Extensible:** Runs locally on your machine for privacy and security, while being extensible through its open architecture to adapt to your specific development needs.
 
 Goose is a powerful and flexible tool for any developer who wants to leverage autonomous AI assistance in their daily workflow. Its ability to handle complete development tasks, multi-model support, and availability in both GUI and CLI formats make it a comprehensive solution for AI-assisted software engineering.
+
+## Installation
+
+### CLI
+
+The Goose CLI can be installed using `pipx`.
+
+```bash
+pipx install goose-ai
+```
+
+### Desktop App
+
+A desktop application is available for Mac and Windows. You can download it from the [Goose website](https://block.github.io/goose/docs/install).
+
+## Quickstart
+
+1.  Install Goose using one of the methods above.
+2.  Configure Goose with your preferred LLM by obtaining the necessary API keys.
+3.  Start a Goose session:
+    ```bash
+    goose session start
+    ```
+4.  Interact with the AI agent to automate tasks.
+
+## Links
+
+*   **Website:** https://block.github.io/goose/
+*   **GitHub:** https://github.com/block/goose
+*   **Documentation:** https://block.github.io/goose/docs/intro
+
+## Tutorials
+
+*   [Coding With Goose, An AI Agent](https://www.youtube.com/watch?v=8y1-p5b_w4s)
+*   [Codename Goose: Fully FREE AI Software Engineer Can DO Anything!](https://www.youtube.com/watch?v=w_L-g4j-p4s)
+*   [Install Goose with Ollama](https://www.youtube.com/watch?v=3-hG-4GMANo)

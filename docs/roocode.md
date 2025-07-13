@@ -21,3 +21,28 @@ RooCode is a powerful and flexible AI coding assistant that is designed to be a 
 *   **Open Source:** RooCode is an open-source project, which means that you can inspect the code, contribute to the project, and even host it yourself. This makes it a transparent and trustworthy tool that you can rely on.
 
 RooCode is a powerful and flexible tool for any developer who wants to leverage the power of AI in their daily workflow. Its deep integration with Visual Studio Code, its agentic AI capabilities, and its model-agnostic design make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+1.  Open VS Code.
+2.  Go to the Extensions view (click the Extensions icon in the Activity Bar).
+3.  Search for "RooCode" and click "Install".
+4.  Reload VS Code.
+
+## Quickstart
+
+1.  After installing the extension, click the RooCode icon in the Activity Bar.
+2.  Select an API provider and enter your API key.
+3.  Start a conversation with RooCode by typing your request in natural language.
+
+## Links
+
+*   **Website:** https://roocode.com/
+*   **GitHub:** https://github.com/RooCodeInc/Roo-Code
+*   **Docs:** https://docs.roocode.com/
+
+## Tutorials
+
+*   [Your Ultimate AI Coding Agent: Roo Code + Visual Studio Code](https://www.youtube.com/watch?v=3-hG-4GMANo)
+*   [Roo Code: The Best Autonomous Coding Agent (Free & Open Source) Why I Love It + Setup & Vibe Coding](https://www.youtube.com/watch?v=8Jv-t-g8p-s)
+*   [Roo Code is AMAZING - AI VSCode Extension (better than Cursor?)](https://www.youtube.com/watch?v=u2sD9q0Lzqw)

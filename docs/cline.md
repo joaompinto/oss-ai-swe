@@ -21,3 +21,33 @@ Cline is a powerful and flexible AI coding assistant that is designed to be a se
 *   **File and Command Execution:** Cline can create and edit files, showing you a diff of the changes, and can run commands in your terminal. This makes it a powerful tool for automating a wide range of tasks.
 
 Cline is a powerful and flexible tool for any developer who wants to leverage the power of AI in their daily workflow. Its deep integration with Visual Studio Code, its support for multiple AI models, and its extensibility make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+1.  Open VS Code.
+2.  Go to the Extensions view (click the Extensions icon in the Activity Bar).
+3.  Search for "Cline" and click "Install".
+4.  Reload VS Code.
+
+## Quickstart
+
+1.  After installation, click the Cline icon in the Activity Bar or use `CMD/CTRL + Shift + P` and search for "Cline".
+2.  Create a Cline account to get an API key.
+3.  Start a conversation with Cline by typing your request in natural language.
+
+## Links
+
+*   **Website:** https://cline.bot/
+*   **GitHub:** https://github.com/cline/cline
+*   **Discord:** https://discord.gg/cline
+*   **Blog:** https://cline.bot/blog
+
+## Tutorials
+
+*   [How to Install VS Code](https://www.youtube.com/watch?v=MlIzFUI1QGA)
+*   [How To Install Extensions in VS Code](https://www.youtube.com/watch?v=E7trgwZa-mk)
+*   [Install Homebrew on Mac](https://www.youtube.com/watch?v=hwGNgVbqasc)
+*   [Install Git on macOS 2024](https://www.youtube.com/watch?v=B4qsvQ5IqWk)
+*   [Install Node.js on Mac (M1 | M2 | M3)](https://www.youtube.com/watch?v=I8H4wolRFBk)
+*   [Install Git on Windows 10/11 (2024)](https://www.youtube.com/watch?v=yjxv1HuRQy0)
+*   [Install Node.js in Windows 10/11](https://youtube.com/watch?v=uCgAuOYpJd0)

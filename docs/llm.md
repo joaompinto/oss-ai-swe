@@ -22,3 +22,46 @@ LLM is a powerful and versatile tool for interacting with large language models 
 *   **Conversation History and Embeddings:** LLM provides features for managing your conversation history, storing your prompts and responses in a SQLite database. It also allows you to work with embeddings, which can be used for a variety of tasks, such as semantic search and clustering.
 
 LLM is a powerful and flexible tool for any developer who wants to leverage the power of large language models from the command line. Its unified interface, its extensible plugin system, and its composable design make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### pip
+
+```bash
+pip install llm
+```
+
+### Homebrew
+
+```bash
+brew install llm
+```
+
+### pipx
+
+```bash
+pipx install llm
+```
+
+## Quickstart
+
+1.  Install `llm` using one of the methods above.
+2.  Set up an API key for the language model you want to use. For example, for OpenAI:
+    ```bash
+    llm keys set openai
+    ```
+3.  Run a prompt:
+    ```bash
+    llm "Ten fun names for a pet pelican"
+    ```
+
+## Links
+
+*   **Website:** https://llm.datasette.io/
+*   **GitHub:** https://github.com/simonw/llm
+*   **Plugins:** https://llm.datasette.io/en/latest/plugins/directory.html
+
+## Tutorials
+
+*   [Language models on the command-line w/ Simon Willison](https://www.youtube.com/watch?v=1-M4ADeD-3A)
+*   [How I use LLMs to help me write code](https://www.youtube.com/watch?v=vA-5-9D2J2o)

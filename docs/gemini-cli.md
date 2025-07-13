@@ -21,3 +21,37 @@ Gemini CLI is designed to be a versatile and powerful tool for developers, provi
 *   **Extensibility:** Gemini CLI is designed to be extensible, allowing you to create custom commands and integrations to suit your specific needs. This makes it a flexible tool that can be adapted to a wide variety of workflows.
 
 Gemini CLI is a powerful tool for any developer looking to leverage the power of Google's Gemini models. Its ability to interact with your code, automate tasks, and provide access to advanced AI capabilities makes it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### npx
+
+```bash
+npx https://github.com/google-gemini/gemini-cli
+```
+
+### npm
+
+```bash
+npm install -g @google/gemini-cli
+```
+
+## Quickstart
+
+1.  Install `gemini-cli` using one of the methods above.
+2.  Run the interactive CLI:
+    ```bash
+    gemini
+    ```
+3.  The first time you run it, you will be prompted to log in with your Google account.
+4.  After logging in, you can start a conversation with Gemini.
+
+## Links
+
+*   **GitHub:** https://github.com/google-gemini/gemini-cli
+
+## Tutorials
+
+*   [How to Install & Use Gemini CLI + MCP: A Step-by-Step Tutorial](https://www.youtube.com/watch?v=W4u_J2jJ9pY)
+*   [How to Install & Use Gemini CLI Tool (Google AI) | Full Setup Guide for Windows, Mac & Linux](https://www.youtube.com/watch?v=ZppI4J-pW_s)
+*   [Gemini CLI + MCP: Complete Install in Minutes (Tutorial)](https://www.youtube.com/watch?v=Jd-j9QjJ-k)
