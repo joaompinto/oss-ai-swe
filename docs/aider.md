@@ -21,3 +21,69 @@ Aider is a command-line tool that brings the power of AI to your terminal, allow
 *   **Repository Map:** Aider creates a map of your entire git repository, which helps it to understand the context of your code and make more relevant and accurate changes. This is a key feature that sets it apart from other tools that only look at the current file.
 
 Aider is a powerful and flexible tool for any developer who wants to leverage the power of AI in their daily workflow. Its deep integration with git, its ability to edit multiple files, and its repository-aware context make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### pip
+
+```bash
+python -m pip install aider-chat
+```
+
+### pipx
+
+```bash
+pipx install aider-chat
+```
+
+### uv
+
+```bash
+uv tool install --force --python python3.12 --with pip aider-chat@latest
+```
+
+### Mac & Linux
+
+**curl**
+```bash
+curl -LsSf https://aider.chat/install.sh | sh
+```
+
+**wget**
+```bash
+wget -qO- https://aider.chat/install.sh | sh
+```
+
+### Windows
+
+**PowerShell**
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://aider.chat/install.ps1 | iex"
+```
+
+## Quickstart
+
+1.  Install aider using one of the methods above.
+2.  Set your OpenAI API key:
+    ```bash
+    export OPENAI_API_KEY=your-key-goes-here
+    ```
+3.  Run aider from within your git repository:
+    ```bash
+    aider
+    ```
+
+## Links
+
+*   **Website:** https://aider.chat/
+*   **GitHub:** https://github.com/Aider-AI/aider
+*   **Discord:** https://discord.gg/Y7X7bhMQFV
+*   **Blog:** https://aider.chat/blog/
+
+## Tutorials
+
+*   [Using Architect/Editor mode](https://www.youtube.com/watch?v=OPXslklVBZc) by AICodeKing
+*   [Using aider to incrementally build a non-trivial app](https://youtu.be/QlUt06XLbJE) by IndyDevDan
+*   [Aider and Replit on mobile with your voice](https://x.com/itsPaulAi/status/1830987090617831810) by Paul Couvert
+*   [Aider is the OG AI Coding King (Mermaid Diagram AI Agent)](https://www.youtube.com/watch?v=ag-KxYS8Vuw) by IndyDevDan
+*   [Installing aider in replit and making a Trello clone](https://x.com/itspaulai/status/1828834199597633724) by Paul Couvert

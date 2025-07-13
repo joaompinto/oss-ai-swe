@@ -21,3 +21,32 @@ OpenHands is a powerful and flexible platform for building and deploying AI agen
 *   **Community-Driven:** OpenHands is a community-driven project, with contributions from both academia and industry. This means that the platform is constantly evolving and improving, with new features and capabilities being added all the time.
 
 OpenHands is a powerful and flexible platform for any developer who wants to leverage the power of AI to automate their workflow. Its ability to create and deploy autonomous agents, its support for a variety of LLMs, and its integration with existing tools make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### Docker
+
+The easiest way to get started with OpenHands is by using Docker.
+
+```bash
+docker run -p 3000:3000 allhandsai/openhands
+```
+
+## Quickstart
+
+1.  Install OpenHands using Docker.
+2.  Access the OpenHands UI by navigating to `http://localhost:3000` in your web browser.
+3.  Select a Large Language Model (LLM) provider and enter your API key.
+4.  Start a new session and provide a prompt to the AI agent.
+
+## Links
+
+*   **Website:** https://www.all-hands.dev/
+*   **GitHub:** https://github.com/All-Hands-AI/OpenHands
+*   **Docs:** https://docs.all-hands.dev/
+
+## Tutorials
+
+*   [Install OpenDevin Locally - Step by Step Tutorial](https://www.youtube.com/watch?v=3-hG-4GMANo)
+*   [Open Devin AI Software Engineer, Updated Intro and Setup](https://www.youtube.com/watch?v=8Jv-t-g8p-s)
+*   [OpenDevin: Your Personal AI Software Engineer](https://www.youtube.com/watch?v=u2sD9q0Lzqw)

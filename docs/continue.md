@@ -22,3 +22,38 @@ Continue is a powerful and flexible AI code assistant that is designed to be a s
 *   **Open Source and Customizable:** Continue is an open-source project, which means that you can inspect the code, contribute to the project, and even host it yourself. It's also highly customizable, allowing you to create your own custom commands and integrations.
 
 Continue is a powerful and flexible tool for any developer who wants to leverage the power of AI in their daily workflow. Its deep integration with popular IDEs, its AI-powered chat interface, and its open-source and customizable design make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### VS Code
+
+1.  Open VS Code.
+2.  Go to the Extensions view (click the Extensions icon in the Activity Bar).
+3.  Search for "Continue" and click "Install".
+4.  Reload VS Code.
+
+### JetBrains
+
+1.  Open your JetBrains IDE.
+2.  Go to **Settings > Plugins**.
+3.  Search for "Continue" and click "Install".
+4.  Restart your IDE.
+
+## Quickstart
+
+1.  After installing the extension, click the Continue icon in your IDE's sidebar.
+2.  Sign in to your Continue account to access all the features.
+3.  Start a conversation with Continue by typing your request in natural language.
+
+## Links
+
+*   **Website:** https://www.continue.dev/
+*   **GitHub:** https://github.com/continuedev/continue
+*   **Docs:** https://docs.continue.dev/
+*   **Discord:** https://discord.gg/continue
+
+## Tutorials
+
+*   [Build an App with AI assistant Continue.dev](https://www.youtube.com/watch?v=tIe-b-3-p4s)
+*   [Continue.dev demo writing python code in VS Code](https://www.youtube.com/watch?v=L3s4n-B-sY8)
+*   [The best free alternative to GitHub Copilot](https://www.youtube.com/watch?v=p3I-A3-e21M)
