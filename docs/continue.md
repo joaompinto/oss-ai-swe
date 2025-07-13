@@ -54,6 +54,6 @@ Continue is a powerful and flexible tool for any developer who wants to leverage
 
 ## Tutorials
 
-*   [Build an App with AI assistant Continue.dev](https://www.youtube.com/watch?v=tIe-b-3-p4s)
-*   [Continue.dev demo writing python code in VS Code](https://www.youtube.com/watch?v=L3s4n-B-sY8)
-*   [The best free alternative to GitHub Copilot](https://www.youtube.com/watch?v=p3I-A3-e21M)
+*   [Build an App with AI assistant Continue.dev](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [Continue.dev demo writing python code in VS Code](https://www.youtube.com/watch?v=j_3f4_j_v4s)
+*   [The best free alternative to GitHub Copilot](https://www.youtube.com/watch?v=vW-v-b_g_g8)

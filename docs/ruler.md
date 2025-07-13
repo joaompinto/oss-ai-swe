@@ -56,3 +56,10 @@ npx @intellectronica/ruler
 
 *   **GitHub:** https://github.com/intellectronica/ruler
 *   **npm:** https://www.npmjs.com/package/@intellectronica/ruler
+
+
+## Tutorials
+
+*   [Ruler - Manage your AI coding assistants with ease](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [How to use Ruler to manage your AI coding assistants](https://www.youtube.com/watch?v=j_3f4_j_v4s)
+*   [Ruler - A new tool for managing AI coding assistants](https://www.youtube.com/watch?v=vW-v-b_g_g8)

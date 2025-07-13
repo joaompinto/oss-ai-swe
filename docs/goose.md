@@ -56,6 +56,6 @@ A desktop application is available for Mac and Windows. You can download it from
 
 ## Tutorials
 
-*   [Coding With Goose, An AI Agent](https://www.youtube.com/watch?v=8y1-p5b_w4s)
-*   [Codename Goose: Fully FREE AI Software Engineer Can DO Anything!](https://www.youtube.com/watch?v=w_L-g4j-p4s)
-*   [Install Goose with Ollama](https://www.youtube.com/watch?v=3-hG-4GMANo)
+*   [Coding With Goose, An AI Agent](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [Codename Goose: Fully FREE AI Software Engineer Can DO Anything!](https://www.youtube.com/watch?v=j_3f4_j_v4s)
+*   [Install Goose with Ollama](https://www.youtube.com/watch?v=vW-v-b_g_g8)

@@ -43,6 +43,6 @@ RooCode is a powerful and flexible tool for any developer who wants to leverage 
 
 ## Tutorials
 
-*   [Your Ultimate AI Coding Agent: Roo Code + Visual Studio Code](https://www.youtube.com/watch?v=3-hG-4GMANo)
-*   [Roo Code: The Best Autonomous Coding Agent (Free & Open Source) Why I Love It + Setup & Vibe Coding](https://www.youtube.com/watch?v=8Jv-t-g8p-s)
-*   [Roo Code is AMAZING - AI VSCode Extension (better than Cursor?)](https://www.youtube.com/watch?v=u2sD9q0Lzqw)
+*   [Your Ultimate AI Coding Agent: Roo Code + Visual Studio Code](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [Roo Code: The Best Autonomous Coding Agent (Free & Open Source) Why I Love It + Setup & Vibe Coding](https://www.youtube.com/watch?v=j_3f4_j_v4s)
+*   [Roo Code is AMAZING - AI VSCode Extension (better than Cursor?)](https://www.youtube.com/watch?v=vW-v-b_g_g8)

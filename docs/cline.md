@@ -41,13 +41,3 @@ Cline is a powerful and flexible tool for any developer who wants to leverage th
 *   **GitHub:** https://github.com/cline/cline
 *   **Discord:** https://discord.gg/cline
 *   **Blog:** https://cline.bot/blog
-
-## Tutorials
-
-*   [How to Install VS Code](https://www.youtube.com/watch?v=MlIzFUI1QGA)
-*   [How To Install Extensions in VS Code](https://www.youtube.com/watch?v=E7trgwZa-mk)
-*   [Install Homebrew on Mac](https://www.youtube.com/watch?v=hwGNgVbqasc)
-*   [Install Git on macOS 2024](https://www.youtube.com/watch?v=B4qsvQ5IqWk)
-*   [Install Node.js on Mac (M1 | M2 | M3)](https://www.youtube.com/watch?v=I8H4wolRFBk)
-*   [Install Git on Windows 10/11 (2024)](https://www.youtube.com/watch?v=yjxv1HuRQy0)
-*   [Install Node.js in Windows 10/11](https://youtube.com/watch?v=uCgAuOYpJd0)

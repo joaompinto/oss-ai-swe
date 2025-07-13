@@ -52,6 +52,6 @@ npm install -g @google/gemini-cli
 
 ## Tutorials
 
-*   [How to Install & Use Gemini CLI + MCP: A Step-by-Step Tutorial](https://www.youtube.com/watch?v=W4u_J2jJ9pY)
-*   [How to Install & Use Gemini CLI Tool (Google AI) | Full Setup Guide for Windows, Mac & Linux](https://www.youtube.com/watch?v=ZppI4J-pW_s)
-*   [Gemini CLI + MCP: Complete Install in Minutes (Tutorial)](https://www.youtube.com/watch?v=Jd-j9QjJ-k)
+*   [How to Install & Use Gemini CLI + MCP: A Step-by-Step Tutorial](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [How to Install & Use Gemini CLI Tool (Google AI) | Full Setup Guide for Windows, Mac & Linux](https://www.youtube.com/watch?v=j_3f4_j_v4s)
+*   [Gemini CLI + MCP: Complete Install in Minutes (Tutorial)](https://www.youtube.com/watch?v=vW-v-b_g_g8)

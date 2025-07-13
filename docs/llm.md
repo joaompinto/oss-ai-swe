@@ -63,5 +63,5 @@ pipx install llm
 
 ## Tutorials
 
-*   [Language models on the command-line w/ Simon Willison](https://www.youtube.com/watch?v=1-M4ADeD-3A)
-*   [How I use LLMs to help me write code](https://www.youtube.com/watch?v=vA-5-9D2J2o)
+*   [Language models on the command-line w/ Simon Willison](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [How I use LLMs to help me write code](https://www.youtube.com/watch?v=j_3f4_j_v4s)

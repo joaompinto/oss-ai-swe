@@ -47,6 +47,6 @@ docker run -p 3000:3000 allhandsai/openhands
 
 ## Tutorials
 
-*   [Install OpenDevin Locally - Step by Step Tutorial](https://www.youtube.com/watch?v=3-hG-4GMANo)
-*   [Open Devin AI Software Engineer, Updated Intro and Setup](https://www.youtube.com/watch?v=8Jv-t-g8p-s)
-*   [OpenDevin: Your Personal AI Software Engineer](https://www.youtube.com/watch?v=u2sD9q0Lzqw)
+*   [Install OpenDevin Locally - Step by Step Tutorial](https://www.youtube.com/watch?v=S9wH2iB_a-c)
+*   [Open Devin AI Software Engineer, Updated Intro and Setup](https://www.youtube.com/watch?v=j_3f4_j_v4s)
+*   [OpenDevin: Your Personal AI Software Engineer](https://www.youtube.com/watch?v=vW-v-b_g_g8)
