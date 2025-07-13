@@ -60,9 +60,3 @@ npm install -g opencode-ai
 *   **Website:** https://opencode.ai/
 *   **GitHub:** https://github.com/opencode-ai/opencode
 *   **Docs:** https://docs.opencode.ai/
-
-## Tutorials
-
-*   [The AI Coder That's Actually Good?](https://www.youtube.com/watch?v=S9wH2iB_a-c)
-*   [OpenCode - The Open-Source AI Coding Assistant](https://www.youtube.com/watch?v=j_3f4_j_v4s)
-*   [The free, open-source AI coding assistant you've been waiting for](https://www.youtube.com/watch?v=vW-v-b_g_g8)

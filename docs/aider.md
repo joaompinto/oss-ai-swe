@@ -82,8 +82,8 @@ powershell -ExecutionPolicy ByPass -c "irm https://aider.chat/install.ps1 | iex"
 
 ## Tutorials
 
-*   [Using Architect/Editor mode](https://www.youtube.com/watch?v=S9wH2iB_a-c) by AICodeKing
-*   [Using aider to incrementally build a non-trivial app](https://www.youtube.com/watch?v=j_3f4_j_v4s) by IndyDevDan
+*   [Using Architect/Editor mode](https://www.youtube.com/watch?v=OPXslklVBZc) by AICodeKing
+*   [Using aider to incrementally build a non-trivial app](https://www.youtube.com/watch?v=QlUt06XLbJE) by IndyDevDan
 *   [Aider and Replit on mobile with your voice](https://x.com/itsPaulAi/status/1830987090617831810) by Paul Couvert
-*   [Aider is the OG AI Coding King (Mermaid Diagram AI Agent)](https://www.youtube.com/watch?v=vW-v-b_g_g8) by IndyDevDan
+*   [Aider is the OG AI Coding King (Mermaid Diagram AI Agent)](https://www.youtube.com/watch?v=ag-KxYS8Vuw) by IndyDevDan
 *   [Installing aider in replit and making a Trello clone](https://x.com/itspaulai/status/1828834199597633724) by Paul Couvert

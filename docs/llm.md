@@ -60,8 +60,3 @@ pipx install llm
 *   **Website:** https://llm.datasette.io/
 *   **GitHub:** https://github.com/simonw/llm
 *   **Plugins:** https://llm.datasette.io/en/latest/plugins/directory.html
-
-## Tutorials
-
-*   [Language models on the command-line w/ Simon Willison](https://www.youtube.com/watch?v=S9wH2iB_a-c)
-*   [How I use LLMs to help me write code](https://www.youtube.com/watch?v=j_3f4_j_v4s)

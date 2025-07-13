@@ -59,9 +59,3 @@ docker run -p 8008:8008 refact/refact
 *   **Website:** https://refact.ai/
 *   **GitHub:** https://github.com/smallcloudai/refact
 *   **Docs:** https://refact.ai/docs/
-
-## Tutorials
-
-*   [FREE Powerful ChatGPT Ai Coding Assistant- Refact.ai (Installation Tutorial)](https://www.youtube.com/watch?v=S9wH2iB_a-c)
-*   [Create Your Own Self-hosted AI Coding Assistant - Quick and Simple Tutorial](https://www.youtube.com/watch?v=j_3f4_j_v4s)
-*   [Easy and Fast Deployment With Refact.ai Coding Assistant and RunPod](https://www.youtube.com/watch?v=vW-v-b_g_g8)

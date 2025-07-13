@@ -59,9 +59,3 @@ GitHub Copilot Chat is a powerful and versatile tool for any developer who wants
 *   **Website:** https://github.com/features/copilot
 *   **GitHub:** https://github.com/microsoft/vscode-copilot-chat
 *   **Documentation:** https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat
-
-## Tutorials
-
-*   [GitHub Copilot Chat - A Beginner's Guide](https://www.youtube.com/watch?v=3-hG-4GMANo)
-*   [GitHub Copilot Chat: Ask, Edit, and Agent Modes Explained](https://www.youtube.com/watch?v=8Jv-t-g8p-s)
-*   [How to build a custom Copilot Chat participant in VS Code](https://www.youtube.com/watch?v=u2sD9q0Lzqw)

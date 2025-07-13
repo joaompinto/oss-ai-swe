@@ -62,11 +62,3 @@ Download the appropriate binary from the [latest GitHub Release](https://github.
 
 *   **GitHub:** https://github.com/openai/codex
 *   **Releases:** https://github.com/openai/codex/releases
-
-## Tutorials
-
-*   [OpenAI’s Codex CLI: A Developer’s Guide](https://www.datacamp.com/tutorial/openai-codex-cli-a-developers-guide)
-*   [How to Use OpenAI’s Codex CLI to Write and Edit Code](https://medium.com/@mail.to.sandeep/how-to-use-openais-codex-cli-to-write-and-edit-code-2d3c9a2b3b3c)
-*   [How to Use the New Codex CLI from OpenAI](https://www.apipie.ai/blog/how-to-use-the-new-codex-cli-from-openai)
-*   [How to Use OpenAI’s Codex CLI](https://www.apidog.com/blog/how-to-use-openais-codex-cli/)
-*   [How to Use the Codex CLI](https://machinelearningmastery.com/how-to-use-the-codex-cli/)

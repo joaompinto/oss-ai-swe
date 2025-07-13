@@ -53,9 +53,3 @@ A desktop application is available for Mac and Windows. You can download it from
 *   **Website:** https://block.github.io/goose/
 *   **GitHub:** https://github.com/block/goose
 *   **Documentation:** https://block.github.io/goose/docs/intro
-
-## Tutorials
-
-*   [Coding With Goose, An AI Agent](https://www.youtube.com/watch?v=S9wH2iB_a-c)
-*   [Codename Goose: Fully FREE AI Software Engineer Can DO Anything!](https://www.youtube.com/watch?v=j_3f4_j_v4s)
-*   [Install Goose with Ollama](https://www.youtube.com/watch?v=vW-v-b_g_g8)
