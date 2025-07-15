@@ -36,16 +36,11 @@ extra_css:
 
 plugins:
   - search
-  - tags:
-      tags_file: tags.md
+  - tags
 
 nav:
   - Home: index.md
-  - Tags:
-    - CLI Tools: tags/#cli
-    - GUI Tools: tags/#gui
-    - VS Code Extensions: tags/#vscode
-    - Utilities: tags/#util
+  - Tags: tags.md
   - Tools:
     - Aider: aider.md
     - Cline: cline.md
@@ -60,3 +55,4 @@ nav:
     - Refact: refact.md
     - RooCode: roocode.md
     - Ruler: ruler.md
+    - Vibe Kanban: vibe-kanban.md
