@@ -17,3 +17,6 @@ This is a community-managed informational website with a comprehensive guide to 
 - [Refact](./refact.md)
 - [RooCode](./roocode.md)
 - [Ruler](./ruler.md)
+- [Trae](./trae.md)
+- [Vibe Kanban](./vibe-kanban.md)
+- [Zed](./zed.md)
