@@ -1,13 +1,14 @@
 ---
 tags:
   - cli
+  - util
 ---
 
 # Ruler
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [intellectronica/ruler](https://github.com/intellectronica/ruler) | [intellectronica/ruler](https://github.com/intellectronica/ruler) | MIT | `cli` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [ai.intellectronica.net/ruler](https://ai.intellectronica.net/ruler) | [intellectronica/ruler](https://github.com/intellectronica/ruler) | MIT |
 
 **Ruler is a command-line tool designed to manage and synchronize instructions for various AI coding assistants.**
 
@@ -21,3 +22,45 @@ Ruler is a command-line tool that helps you to manage and synchronize instructio
 *   **Extensibility:** Ruler is designed to be extensible, allowing you to add support for new AI tools and to create custom rules and configurations. This makes it a flexible tool that can be adapted to a wide variety of workflows.
 
 Ruler is a powerful and flexible tool for any team that is using multiple AI coding assistants. Its ability to centralize and synchronize instructions, its automatic distribution capabilities, and its extensibility make it a valuable addition to any team's toolkit.
+
+## Installation
+
+### npm
+
+```bash
+npm install -g @intellectronica/ruler
+```
+
+### npx
+
+```bash
+npx @intellectronica/ruler
+```
+
+## Quickstart
+
+1.  Install Ruler using one of the methods above.
+2.  Navigate to your project's root directory.
+3.  Initialize Ruler:
+    ```bash
+    ruler init
+    ```
+4.  This will create a `.ruler/` directory with configuration files.
+5.  Add your coding rules to the `instructions.md` file.
+6.  Apply the rules to your AI agents:
+    ```bash
+    ruler apply
+    ```
+
+## Links
+
+*   **GitHub:** https://github.com/intellectronica/ruler
+*   **npm:** https://www.npmjs.com/package/@intellectronica/ruler
+
+## Tutorials
+
+* **Ruler: Centralise Your AI Coding Assistant Instructions** — [https://ai.intellectronica.net/ruler](https://ai.intellectronica.net/ruler)
+* **Ruler – GitHub README** — [https://github.com/intellectronica/ruler](https://github.com/intellectronica/ruler)
+* **AI-Assisted Software Engineering in the Large (uses Ruler)** — [https://ai.intellectronica.net/ai-assisted-software-engineering-in-the-large](https://ai.intellectronica.net/ai-assisted-software-engineering-in-the-large)
+
+> **Tip:** Some tools (notably **Ruler**) are brand-new, so community video walk-throughs are still scarce. The textual guides above cover setup and workflow comprehensively until video demos emerge.

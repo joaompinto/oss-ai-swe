@@ -29,6 +29,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  custom_dir: docs/overrides
+
 extra_css:
   - stylesheets/extra.css
 
@@ -39,10 +41,7 @@ plugins:
 
 nav:
   - Home: index.md
-  - Tags:
-    - CLI Tools: tags/#cli
-    - GUI Tools: tags/#gui
-    - VS Code Extensions: tags/#vscode
+  - Tags: tags.md
   - Tools:
     - Aider: aider.md
     - Cline: cline.md
@@ -57,3 +56,6 @@ nav:
     - Refact: refact.md
     - RooCode: roocode.md
     - Ruler: ruler.md
+    - Trae: trae.md
+    - Vibe Kanban: vibe-kanban.md
+    - Zed: zed.md

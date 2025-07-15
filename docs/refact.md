@@ -6,9 +6,9 @@ tags:
 
 # Refact
 
-| Website | GitHub | License | Tags |
-| --- | --- | --- | --- |
-| [refact.ai](https://refact.ai/) | [refact-ai/refact](https://github.com/refact-ai/refact) | BSD-3-Clause | `vscode`, `gui` |
+| Website | GitHub | License |
+| --- | --- | --- |
+| [refact.ai](https://refact.ai/) | [smallcloudai/refact](https://github.com/smallcloudai/refact) | BSD-3-Clause |
 
 **Refact.ai is an open-source AI coding assistant that you can use as a plugin in IDEs like VS Code and JetBrains. It's designed to help developers with a variety of tasks, making coding faster and improving code quality.**
 
@@ -22,3 +22,47 @@ Refact.ai is a powerful and versatile AI coding assistant that is designed to be
 *   **On-Premise Deployment:** For enhanced security, you can host Refact.ai on your own servers, ensuring that your code remains private. This makes it a great option for teams and organizations that have strict security requirements.
 
 Refact.ai is a powerful and flexible tool for any developer who wants to leverage the power of AI in their daily workflow. Its deep integration with popular IDEs, its intelligent code completion and refactoring capabilities, and its on-premise deployment option make it a valuable addition to any developer's toolkit.
+
+## Installation
+
+### VS Code
+
+1.  Open VS Code.
+2.  Go to the Extensions view (click the Extensions icon in the Activity Bar).
+3.  Search for "Refact.ai" and click "Install".
+4.  Reload VS Code.
+
+### JetBrains
+
+1.  Open your JetBrains IDE.
+2.  Go to **Settings > Plugins**.
+3.  Search for "Refact.ai" and click "Install".
+4.  Restart your IDE.
+
+### Self-Hosting (Docker)
+
+You can self-host Refact.ai using Docker.
+
+```bash
+docker run -p 8008:8008 refact/refact
+```
+
+## Quickstart
+
+1.  Install the Refact.ai extension for your IDE.
+2.  Open the Refact.ai chat window.
+3.  Select "Agent Mode".
+4.  Start a conversation with the agent by writing a prompt.
+
+## Links
+
+*   **Website:** https://refact.ai/
+*   **GitHub:** https://github.com/smallcloudai/refact
+*   **Docs:** https://refact.ai/docs/
+
+## Tutorials
+
+* **Refact for VS Code – Installation Guide** — [https://docs.refact.ai/installation/vs-code/](https://docs.refact.ai/installation/vs-code/)
+* **Improved Coding Experience with Refact Plugin** (YouTube) — [https://www.youtube.com/watch?v=SsjOY4bJ4Yg](https://www.youtube.com/watch?v=SsjOY4bJ4Yg)
+* **How to Use Refact AI for Faster & Smarter Refactoring** — [https://medium.com/@shahneel2409/how-to-use-refact-ai-for-faster-and-smarter-code-refactoring-9ff999c2d733](https://medium.com/@shahneel2409/how-to-use-refact-ai-for-faster-and-smarter-code-refactoring-9ff999c2d733)
+* **NEW Fully FREE AI Software Engineer (Refact.ai)** (YouTube) — [https://www.youtube.com/watch?v=k4eSitgTKSc](https://www.youtube.com/watch?v=k4eSitgTKSc)
