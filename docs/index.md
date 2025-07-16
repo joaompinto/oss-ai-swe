@@ -11,6 +11,7 @@ This is a community-managed informational website with a comprehensive guide to 
 - [Gemini CLI](./gemini-cli.md)
 - [GitHub Copilot Chat](./github-copilot-chat.md)
 - [Goose](./goose.md)
+- [Janito](./janito.md)
 - [LLM](./llm.md)
 - [OpenCode](./open-code.md)
 - [OpenHands](./open-hands.md)
